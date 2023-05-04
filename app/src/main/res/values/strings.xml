@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App-Client</string>
+    <string name="bienvenue">bienvenue</string>
+    <string name="Command_list">Command List</string>
+</resources>
